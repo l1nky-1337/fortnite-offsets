@@ -4,7 +4,6 @@
 #define GWorld 0xE7B9A48
 #define VIEW_POINT 0xE2CED18
 
-
 namespace OFFSETS
 {
     uintptr_t UWORLD = 0xE7B9A48;
